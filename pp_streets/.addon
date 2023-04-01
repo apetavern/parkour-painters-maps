@@ -1,0 +1,17 @@
+{
+  "Title": "Parkour Painters - Streets",
+  "Type": "map",
+  "Org": "apetavern",
+  "Ident": "pp_streets",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "PackageReferences": [],
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
