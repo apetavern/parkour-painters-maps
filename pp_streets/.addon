@@ -12,6 +12,9 @@
   "CodePath": null,
   "PackageReferences": [],
   "Metadata": {
-    "ProjectTemplate": null
+    "ProjectTemplate": null,
+    "Summary": "",
+    "Description": "",
+    "Public": false
   }
 }
