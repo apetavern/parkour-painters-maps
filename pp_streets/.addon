@@ -15,7 +15,7 @@
     "ProjectTemplate": null,
     "Summary": "",
     "Description": "",
-    "Public": false,
+    "Public": true,
     "GameSupport": [
       "apetavern.parkour_painters"
     ]
